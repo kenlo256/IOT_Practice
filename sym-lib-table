@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "task-altium-import")(type "KiCad")(uri "${KIPRJMOD}/task-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "LHT21")(type "KiCad")(uri "${KIPRJMOD}/LHT21.kicad_sym")(options "")(descr ""))
+  (lib (name "2022-08-23_20-04-07")(type "Legacy")(uri "C:/Users/oxblo/Downloads/ul_LM2678SX-3-3-NOPB/KiCAD/2022-08-23_20-04-07/2022-08-23_20-04-07.lib")(options "")(descr ""))
+  (lib (name "LM2678SX-5.0_NOPB")(type "Legacy")(uri "C:/Users/oxblo/Downloads/LM2678SX-5.0_NOPB/LM2678SX-5.0_NOPB.lib")(options "")(descr ""))
+  (lib (name "SS14FL")(type "Legacy")(uri "C:/Users/oxblo/Downloads/SS14FL/SS14FL.lib")(options "")(descr ""))
+  (lib (name "CMS06")(type "Legacy")(uri "C:/Users/oxblo/Downloads/CMS06/CMS06.lib")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "eec")(type "KiCad")(uri "C:/Users/oxblo/Downloads/IC_Sensirion_SHT21/eec.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/oxblo/Downloads/ul_LM2678SX-3-3-NOPB/KiCAD/2022-08-23_20-04-07/footprints.pretty")(options "")(descr ""))
+  (lib (name "LM2678SX-5")(type "KiCad")(uri "C:/Users/oxblo/Downloads/LM2678SX-5.0_NOPB")(options "")(descr ""))
+  (lib (name "Capacitor_SMD")(type "KiCad")(uri "C:/Users/oxblo/Downloads/Capacitor_SMD.pretty")(options "")(descr ""))
+  (lib (name "ATWINC1500-MR210UB")(type "KiCad")(uri "C:/Users/oxblo/Downloads/ATWINC1500-MR210UB")(options "")(descr ""))
+  (lib (name "SS14FL")(type "KiCad")(uri "C:/Users/oxblo/Downloads/SS14FL")(options "")(descr ""))
+  (lib (name "CMS06")(type "KiCad")(uri "C:/Users/oxblo/Downloads/CMS06")(options "")(descr ""))
+)
